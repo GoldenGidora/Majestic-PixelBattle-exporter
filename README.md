@@ -15,7 +15,7 @@ Built with **Electron**, **React**, and **Vite**.
 - No compression, no blur, no artefacts
 - Simple and fast desktop UI
 
-![img.png](img.png)
+![Majestic_Pixel_Battle_Exporter_demo.gif](Majestic_Pixel_Battle_Exporter_demo.gif)
 
 ## Build
 
